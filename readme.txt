@@ -1,0 +1,3 @@
+It's my first readme file of git.
+Git is wonderful software,and I try my best to learn it.
+lol...
